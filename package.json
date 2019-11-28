@@ -1,0 +1,20 @@
+{
+  "name": "Lecture-7",
+  "version": "1.0.0",
+  "main": "ChalknFiglet.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.4"
+  },
+  "bin": {
+    "Tasker": "Tasker.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
